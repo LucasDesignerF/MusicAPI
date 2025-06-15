@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yt-dlp
+ffmpeg-python
+colorama
+python-dotenv
+pydantic
+aiohttp
